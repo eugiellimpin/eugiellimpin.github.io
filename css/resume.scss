@@ -1,0 +1,20 @@
+---
+---
+
+.head {
+  address {
+    margin-left: auto;
+  }
+}
+
+.head, .section {
+  display: flex;
+}
+
+.section-title {
+  flex: 1;
+}
+
+.section-content {
+  flex: 3;
+}
